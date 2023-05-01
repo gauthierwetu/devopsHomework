@@ -1,6 +1,6 @@
-public class Main{
+public class DevopsHomeWork{
     public static void main (String[] args){
-        for (int i = 0; i < args.length; i++)
-            System.out.println('args[' + i + ']c : ' + args[i]);
+        for (int i = 0; i < 100; i++)
+            System.out.println("hello word");
     }
 }
