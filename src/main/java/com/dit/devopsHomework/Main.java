@@ -2,7 +2,7 @@ package com.dit.devopsHomework;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("La suite de Fibonacci pour 50 itération est:\n");
+        System.out.printf("La suite de Fibonacci pour 50 itération est :\n");
         int n1=0,n2=1,n3,i,count=50;
         System.out.print(n1+" "+n2);//printing 0 and 1
 
